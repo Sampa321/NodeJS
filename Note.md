@@ -71,3 +71,6 @@ JS ENGINE -> convert js -> Machine code -> execute
 
 # frontend js -> cannot access os, databases, network
 # node js provides special features for those and make js super powerful.
+
+
+
