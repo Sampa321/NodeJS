@@ -1,0 +1,6 @@
+const http = require("http");
+const server = http.createServer(function(req, res)
+{
+    res.end("Hello from server!!")
+})
+server.listen(8000,()=> {console.log("Server running")})
