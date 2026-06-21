@@ -3,7 +3,7 @@ const app = express()   //app -> object or references
 app.use((req, res) =>{
     // res.send("Hello from express js")
 
-    person ={
+    let person = {
         name : "Sampa",
         age : 21
     }
