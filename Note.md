@@ -73,4 +73,8 @@ JS ENGINE -> convert js -> Machine code -> execute
 # node js provides special features for those and make js super powerful.
 
 
+- app.listen(PORT, callback func)
+- nodemon : automatically restart the server when file changes
+
+
 
