@@ -39,3 +39,59 @@ Express js handle routing, request and response
 
 # what is http method?
 - Http method or http verb tells the server what actual to perform.
+
+
+//01-07-2026
+# Status code
+ - status code are 3 digit numbers that tells you if a request was successful or failed and why
+  200 - ok
+  201 - created
+  400 - bad request
+  401 - unauthorized
+  404 - not found
+  500 - internal server error
+
+
+Database 2 types
+  - SQL : Structured Query Language
+        - tabular Format
+        - ACID Property
+  -NOSQL : Not Only Structured Query Language
+        - Document Oriented (e.g - MongoDB)
+        - Column oriented (e.g - Cassandra)
+        - Key value pair (e.g - Redis)
+        - Graph Oriented (e.g - Neo4j)
+
+# MongoDB
+  - BSON Format
+  - No sql database
+  - Faster than SQL
+  - Can handle large amount of data
+
+
+
+
+Database
+ - schema : Logical description of the database
+
+
+Users
+---------
+- UserName
+- email -> unique
+- password 
+- image  -> optional
+
+
+
+
+MongoDB setup :-
+  - npm install mongoose
+  - mongoose connection
+  - Schema formation
+  - You can use the data
+
+# API
+
+
+# MiddleWare
